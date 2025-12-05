@@ -3,7 +3,7 @@ from predict import predict
 
 
 def main():
-    st.title("Iris Species Predictor")
+    st.title("Iris Species!!")
     st.write("Enter the flower measurements to predict the Iris species.")
 
     # Create a form for better user experience
